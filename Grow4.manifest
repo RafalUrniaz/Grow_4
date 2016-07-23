@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestversion="1.0">
+<assemblyIdentity version="1.1.1.1">
+processorArchitecture="*"
+name="your_app_name.exe"
+type="win32" />
+<description>elevate execution level</description>
+<trustinfo xmlns="urn:schemas-microsoft-com:asm.v2"><security>
+<requestedPrivileges>
+<requestedExecutionLevel level="requireAdministrator" uiAccess="true" />
+</requestedPrivileges>
+</security>
+</trustinfo>
+</assembly>

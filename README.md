@@ -2,11 +2,12 @@
   <img src="https://cloud.githubusercontent.com/assets/17867916/17083793/c2029cd6-51a2-11e6-83fd-f75cd1a73379.png" width="100%"/>
 </div>
 
+
 # About Grow_4 <img src="https://cloud.githubusercontent.com/assets/17867916/17083857/b8ed576a-51a4-11e6-89c8-1d5a400473cf.png" align="right" width="50%">
 
 The <b>Grow_4</b> is scientific software for structural bioinfiormatics, data visualization and sequence analysis. It was created and developed by Dr Rafal Urniaz. Actually, the project was appended to the BioTesseract™ ONE and is continuously developed by the community. 
 
-
+# 
 # Main features
 * Small compounds, macromolecules and structure – ligand complexes visualization
 * User-friendly console for high-throughput screening and easy terminal access

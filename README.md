@@ -1,8 +1,8 @@
 <div align="right" style="position:relative; float:right;">
   <img src="https://cloud.githubusercontent.com/assets/17867916/17083793/c2029cd6-51a2-11e6-83fd-f75cd1a73379.png" width="100%"/>
 </div>
-<div align="center">
-#### Program name: Grow_4 | Version: 7.4.1 Build: 202 | Author: Dr Rafal Urniaz | Website: www.BioTesseract.com
+<div align="center" style="bottom: 60px; ">
+Program name: Grow_4 | Version: 7.4.1 Build: 202 | Author: Dr Rafal Urniaz | Website: www.BioTesseract.com
 </div>
 
 # About Grow_4 <img src="https://cloud.githubusercontent.com/assets/17867916/17083857/b8ed576a-51a4-11e6-89c8-1d5a400473cf.png" align="right" width="50%">

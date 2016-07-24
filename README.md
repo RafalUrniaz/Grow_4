@@ -1,5 +1,5 @@
 <div align="right" style="position:relative; float:right;">
-  <img src="https://cloud.githubusercontent.com/assets/17867916/17075082/43ef3990-5089-11e6-85fa-ff67c05000b0.png" width="200px"/>
+  <img src="https://cloud.githubusercontent.com/assets/17867916/17083793/c2029cd6-51a2-11e6-83fd-f75cd1a73379.png" width="100%"/>
 </div>
 
 # About Grow_4

@@ -19,7 +19,7 @@ The <b>Grow_4</b> is scientific software for structural bioinfiormatics, data vi
 # About repository
 This is an archive repository of the Grow_4 project. It contains last version of the source code before appended to the BioTesseract™ ONE project. 
 
-### Grow_4 website: www.grow4.eu
+### Grow_4 website (last release download): www.BioTesseract.com/Grow_4/
 ### BioTesseract™ website: www.BioTesseract.com
 ### BioTesseract™ GitHub: www.github.com/BioTesseract
 

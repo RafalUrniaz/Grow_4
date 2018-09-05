@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CONFIG>
-  <Compiler Value="D:\lazarus_1.4.4\fpc\2.6.4\bin\i386-win32\fpc.exe" Date="1195613038"/>
-  <Params Value=" -Twin32 -MObjFPC -Scagi -CX -O3 -OoUNCERTAIN -OoREGVAR -g -gl -Xs -XX -WG -l -vewnhilbq -FuD:\lazarus_1.4.4\components\tachart\lib\i386-win32\win32 -FuD:\lazarus_1.4.4\components\lazreport\source\lib\i386-win32 -FuD:\lazarus_1.4.4\components\printers\lib\i386-win32\win32 -FuD:\lazarus_1.4.4\components\ideintf\units\i386-win32\win32 -FuD:\lazarus_1.4.4\components\synedit\units\i386-win32\win32 -FuD:\lazarus_1.4.4\components\opengl\lib\i386-win32\win32 -FuD:\lazarus_1.4.4\components\lazcontrols\lib\i386-win32\win32 -FuD:\lazarus_1.4.4\components\cairocanvas\lib\i386-win32\win32 -FuD:\lazarus_1.4.4\lcl\units\i386-win32\win32 -FuD:\lazarus_1.4.4\lcl\units\i386-win32 -FuD:\lazarus_1.4.4\components\lazutils\lib\i386-win32 -FuD:\lazarus_1.4.4\packager\units\i386-win32 -FuD:\PROJEKTY\Grow_4_old\Archiwum\Grow_4_EN_8-01-2016\Grow_4_EN\ -oGrow_4.exe -dLCL -dLCLwin32 Grow4.lpr"/>
-</CONFIG>
